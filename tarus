@@ -1,0 +1,43 @@
+[33mcommit fb53e124932e34ac9faf3f64c0320de132097d32[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Kavita <root@ip-172-31-5-245.ap-northeast-1.compute.internal>
+Date:   Fri Nov 11 19:01:59 2022 +0000
+
+    cdd
+
+[33mcommit ebb76205567c80cd1b56a385beb5e461bb2a57a6[m
+Author: Kavita <root@ip-172-31-5-245.ap-northeast-1.compute.internal>
+Date:   Fri Nov 11 18:41:47 2022 +0000
+
+    first commit
+
+[33mcommit 959842e28433f5ff33dbe59c3ea66830d1049376[m
+Author: Kavita <root@ip-172-31-5-245.ap-northeast-1.compute.internal>
+Date:   Fri Nov 11 15:16:31 2022 +0000
+
+    Revert "ignoring .java files"
+    
+    This reverts commit 5d093ea6aabc6e0093a1f9fdaebab9c6deda9017.
+
+[33mcommit bd7255d3088677f5d58567506f715fff185a1e1f[m[33m ([m[1;32mCddu[m[33m)[m
+Author: Kavita <root@ip-172-31-5-245.ap-northeast-1.compute.internal>
+Date:   Wed Nov 9 11:05:49 2022 +0000
+
+    commit4
+
+[33mcommit 688192b80fe2e646ad80b77e19c1e592edc21553[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Kavita <root@ip-172-31-5-245.ap-northeast-1.compute.internal>
+Date:   Wed Nov 9 11:02:14 2022 +0000
+
+    commit3
+
+[33mcommit 5d093ea6aabc6e0093a1f9fdaebab9c6deda9017[m
+Author: Kavita <root@ip-172-31-5-245.ap-northeast-1.compute.internal>
+Date:   Wed Nov 9 10:58:28 2022 +0000
+
+    ignoring .java files
+
+[33mcommit 04fc6dc9fd65de83695993418c78379bd41d9928[m
+Author: Kavita <root@ip-172-31-5-245.ap-northeast-1.compute.internal>
+Date:   Wed Nov 9 10:54:06 2022 +0000
+
+    commit1
